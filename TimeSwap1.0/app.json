@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "TimeSwap",
-    "slug": "TimeSwap",
+    "name": "TimeSwap1.0",
+    "slug": "TimeSwap1.0",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "timeswap",
+    "scheme": "timeswap10",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
